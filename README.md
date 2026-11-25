@@ -1,8 +1,8 @@
-# MIME Type Lookup
+# Extension Media Type Lookup
 
 A fast, searchable lookup between file extensions and MIME (media) types, in both directions. Around 200 common types are built in as an inline table, so it works with no external dependencies and works offline.
 
-**Live demo:** https://0xelitesystem.github.io/mime-type-lookup/
+**Live demo:** https://0xelitesystem.github.io/extension-media-type-lookup/
 
 ## Use
 
@@ -38,8 +38,8 @@ The only thing written to storage is your light or dark theme choice, saved in `
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/mime-type-lookup
-cd mime-type-lookup
+git clone https://github.com/0xelitesystem/extension-media-type-lookup
+cd extension-media-type-lookup
 ```
 
 Open `index.html` in any modern browser. Or serve the folder with `python -m http.server 8000` and visit http://localhost:8000/.
